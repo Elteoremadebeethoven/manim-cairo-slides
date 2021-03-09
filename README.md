@@ -16,7 +16,8 @@ from slides import *
 
 class Slide1_test1(SlideScene):
     CONFIG = {
-        "script_name": "test_script",
+        "scripts_folder": "scripts",  # <- Folder name
+        "script_name": "test_script", # <- .txt name with the scripts
         #                    v   TEXT_INDEX, line 1 
         "index_paragraphs": [0], # (LN-1)
         "test_code": True, # No animation, only show text and subindexes
