@@ -2,6 +2,12 @@
 
 As the name suggests, you need to use the [ManimCairo](https://github.com/3b1b/manim/tree/f934bdc61e6709cbb7b56045d6194a83d5a985c3) version (current cairo-backend branch) of Manim.
 
+<p align="center"><img src ="/gifs/slide_config.png" /></p>
+
+1. Folder script name.
+2. Script name.
+3. Assets
+
 For the keyboard animation use the sounds that come in the assets.
 
 ```python
